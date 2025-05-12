@@ -1,5 +1,5 @@
 # Projeto - SER MULHER
-**Período:** Jan/2021 – Mar/2024  
+**Período:** Out/2024 – Atual  
 **Cargo:** Coordenadora Geral de Projetos
 
 ## Principais Atividades
