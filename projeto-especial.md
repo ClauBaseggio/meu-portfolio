@@ -1,4 +1,4 @@
-# Projeto Especial – Otimização de Processo de Expedição
+# [Martins Cruz] Projeto - Mapeamento Área Comercial
 
 ## Objetivo
 Reduzir o tempo de expedição de pedidos na fundição, integrando dados do SAP com as rotinas da área de logística.
