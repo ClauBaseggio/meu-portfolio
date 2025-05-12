@@ -1,6 +1,6 @@
-# Empresa 1 – Metalúrgica XYZ
+# Projeto - SER MULHER
 **Período:** Jan/2021 – Mar/2024  
-**Cargo:** Analista 
+**Cargo:** Coordenadora Geral de Projetos
 
 ## Principais Atividades
 
