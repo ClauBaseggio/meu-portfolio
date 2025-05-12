@@ -1,6 +1,6 @@
-# Empresa 2 – 
-**Período:** 
-**Cargo:**
+# Projeto – Mapeamento PCP
+**Período: Fev/2025 - Atual
+**Cargo: Analista de Negócios
 
 ## Principais Atividades
 - 
